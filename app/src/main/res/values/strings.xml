@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">EZ finance</string>
+    <string name="btn1">LOGIN AND REGISTER</string>
+    <string name="btn2">ARRANGE FINANCE</string>
+    <string name="btn3">LOCATE BRANCH</string>
+    <string name="btn4">NEWS AND CSR</string>
+    <string name="btn5">CONTACT INFO</string>
+    <string name="interfacebtn1">ARRANGE FINANCE</string>
+    <string name="interfacebtn2">FINANCE CALCULATOR</string>
+    <string name="finaceTopic">FINANCE CALCULATOR</string>
+    <string name="FinanceQ1">Vehicle Condition</string>
+    <string name="financeQ2">Vehicle Type</string>
+    <string name="financeQ3">Check Your Leasing Calculations</string>
+    <string name="ArrangeTopic">ARRANGE FINANCE</string>
+    <string name="name">Full Name</string>
+    <string name="nic">NIC Number</string>
+    <string name="add">Address</string>
+    <string name="con">Contact Number</string>
+    <string name="mail">Email Address</string>
+    <string name="job">Job</string>
+    <string name="income">Monthly Income</string>
+    <string name="arranBtn1">Save</string>
+    <string name="arranBtn2"><![CDATA[Next]]></string>
+    <string name="financeAgg">I Agree Teams and Conditions</string>
+    <string name="ARbtn1">Edit Arrange</string>
+    <string name="ARbtn2">Delete Arrange</string>
+    <string name="ARbtn3">Next</string>
+    <string name="conTopic">Veirfy Phone  Number</string>
+    <string name="conBtn1">Re-Type phone number</string>
+    <string name="conHint">Type OTP</string>
+    <string name="conBtn2">Resend</string>
+    <string name="conBtn3">Verify</string>
+    <string name="leaseAmount">Lease Amount</string>
+    <string name="leasePeriod">Lease Period</string>
+    <string name="downPayment">Down Payments</string>
+    <string name="otp_has_been_sent_to_your_mobile_number_please_enter_it_below">OTP Has been sent to your mobile number.Please enter it below.</string>
+    <string name="clalResult1">Monthly Instrollment</string>
+    <string name="calc2">Net Value</string>
+    <string name="calc3">Interest</string>
+    <string name="calcResult">Calculation Results</string>
+    <string name="comfarrnge">Next</string>
+    <string name="Cancle">CANCEL ARRANGE</string>
+    <string name="invalid_name">Please Enter Valid Name</string>
+    <string name="invalid_mobile">Please enter Valied Phone Number</string>
+    <string name="invalid_email">Please enter Valid Email Address</string>
+    <string name="invalid_nic">Please enter Valid NIC Number</string>
+    <string name="invalid_time">Maximun time period is 7 years</string>
+    <string name="title_activity_teams_conditons">teamsConditons</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+
+
+</resources>
