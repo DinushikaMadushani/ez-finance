@@ -11,7 +11,7 @@ import android.widget.EditText;
 
 public class MainActivity extends AppCompatActivity {
 
-    Button button2;
+    Button button2,button3;
 
 
     @Override
@@ -21,6 +21,17 @@ public class MainActivity extends AppCompatActivity {
 
         Toolbar toolbar = findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
+
+        button3 = findViewById(R.id.button3);
+        button3.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                Intent intent = new Intent(MainActivity.this, LocateBranch.class);
+                startActivity(intent);
+            }
+        });
+
+
     }
     public void onClick(View view) {
         Intent i = new Intent(this,interface01.class);
