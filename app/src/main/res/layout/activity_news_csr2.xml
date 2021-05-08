@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#040749"
+    tools:context=".news_csr2">
+
+    <include
+        android:id="@+id/toolbar"
+        layout="@layout/toolbar" />
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="88dp"
+        android:onClick="onClick_home"
+        android:text="Back to Home"
+        app:backgroundTint="#1E88E5"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.912"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="361dp"
+        android:layout_height="322dp"
+        android:layout_marginTop="360dp"
+        android:text="Spearheading the leasing industry in Sri Lanka for more than 60 years, we offer flexible facilities that enable you to finance a wide variety of vehicles and equipment with minimum lead-time. Currently financing cars, buses, lorries, three wheelers, jeeps, tractors, agricultural machinery, construction machinery and equipment, we assist you to either acquire brand new and reconditioned assets or re-finance used vehicles and equipment. Helping you fund your working capital and urgent financial needs, we offer a documentation and evaluation process that is simpler and quicker than those of traditional forms of financing. Our leasing facilities can also be structured to suit seasonal and uneven cash flow cycles. An island-wide network of branches makes it easier for you to contact us for your leasing requirements. As a further convenience, we offer you the option to make repayments at any one of our branches across the country"
+        android:textColor="#F6F5F5"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.54"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageView
+        android:id="@+id/imageView8"
+        android:layout_width="354dp"
+        android:layout_height="232dp"
+        android:layout_marginTop="100dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/toolbar"
+        app:srcCompat="@drawable/fffffre" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
