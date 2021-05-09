@@ -173,7 +173,7 @@
         android:background="#FDFEFF"
         android:ems="10"
         android:hint="@string/addresse"
-        android:inputType="number"
+        android:inputType="textPersonName"
         android:text=""
         android:textColorHint="#6C6868" />
 
