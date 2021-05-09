@@ -59,7 +59,7 @@ public class Insert extends AppCompatActivity {
             public void onClick(View v) {
                 //check Validations
                 if(awesomeValidation.validate()) {
-                    String username = name.getText().toString();
+                    String useraccno = accno.getText().toString();
                     String usernic = nic.getText().toString();
                     String useraddress = address.getText().toString();
                     String usercon = con.getText().toString();
