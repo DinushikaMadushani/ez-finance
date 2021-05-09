@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">new project</string>
+    <string name="EzFinance">EZ Finance</string>
+    <string name="payonline">Pay Online</string>
+    <string name="vechiclenumber">Vechicle number</string>
+    <string name="Accountnumber">Account number</string>
+    <string name="accno">A1065A2</string>
+    <string name="monthlyistallment">Monthly Istallment</string>
+    <string name="amountmontly">RS 845000.00</string>
+    <string name="payamount">Pay amount</string>
+    <string name="cardtype">Card type</string>
+    <string name="check1">VISA</string>
+    <string name="check2">MASTER</string>
+    <string name="cardnumber">Card number</string>
+    <string name="cardnumbertext">52**-***-****-***</string>
+    <string name="pay">Pay</string>
+    <string name="cancel">Cancel</string>
+    <string name="receipt">Receipt</string>
+    <string name="date">Date</string>
+    <string name="invoice">Invoice number</string>
+    <string name="invoice1">0001</string>
+    <string name="name">Name</string>
+    <string name="name1">D D P Kumara</string>
+    <string name="address">Address</string>
+    <string name="address1">No 32</string>
+    <string name="address2">Narampola Road</string>
+    <string name="address3">Dekatana</string>
+    <string name="vechiletype">Vechile Type</string>
+    <string name="Amount">Amount</string>
+    <string name="car">Car</string>
+    <string name="vechiclenumber1">BGW-3019</string>
+    <string name="Download">Download</string>
+    <string name="home">Home</string>
+    <string name="newmember">New Member</string>
+    <string name="okbutton">OK</string>
+    <string name="member2">New Member 2</string>
+    <string name="thank_for_joing_us">Thank for joing us</string>
+    <string name="AddPayment">AddPayment</string>
+    <string name="UserName">username</string>
+    <string name="AccountNumber">accno</string>
+    <string name="vcnumber">vehicle number</string>
+    <string name="cardnum">Card number</string>
+    <string name="cardtty">card Type</string>
+    <string name="mounthlyIn">Mounthly Installment</string>
+    <string name="addresse">addresse</string>
+    <string name="save">Save</string>
+    <string name="next">Next</string>
+    <string name="invalid_name">Invalid name</string>
+    <string name="invalid_account">Invalid Account</string>
+    <string name="invalid_amount">Invalid amount</string>
+
+
+</resources>
