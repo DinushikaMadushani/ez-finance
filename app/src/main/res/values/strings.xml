@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ez Finance</string>
+    <string name="But01">Pay Now</string>
+    <string name="But2">Back Home</string>
+    <string name="but03">Contact</string>
+    <string name="But04">News</string>
+    <string name="edit">Edit profile</string>
+
+</resources>
